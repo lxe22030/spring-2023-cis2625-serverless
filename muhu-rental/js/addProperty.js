@@ -1,5 +1,5 @@
 const resource_url =
-  "https://sigqiqg8be.execute-api.us-east-1.amazonaws.com/test/property";
+  "https://86at8y086f.execute-api.us-east-1.amazonaws.com/create_property/property";
 const form = document.getElementById("create-property-form");
 form.addEventListener("submit", (e) => {
   e.preventDefault();
